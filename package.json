@@ -1,0 +1,11 @@
+{
+  "name": "jesttesting1",
+  "version": "1.0.0",
+  "description": "Jest testing practice.",
+  "main": "testing1.js",
+  "author": "Jason Hedrick",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  }
+}
